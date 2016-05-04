@@ -49,6 +49,9 @@ table {
 
 /* RESET CSS */
 
+#main-container {
+	margin-bottom: 80px;
+}
 
 .footer {
     position: absolute;
